@@ -1,1 +1,3 @@
 # Etch-A-Sketch
+
+The Odin Project's Etch-A-Sketch project from the foundations module.
